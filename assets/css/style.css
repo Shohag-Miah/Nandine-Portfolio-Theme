@@ -13,7 +13,7 @@
 
 body {
   font-family: "Raleway", sans-serif;
-  font-size: 1rem;
+  font-size: .9rem;
   line-height: 1.456rem;
   font-weight: normal;
   color: #888;
@@ -306,10 +306,10 @@ span.while-item {
 
 .main_menu ul li a {
   color: #fff;
-  font-size: 1.2rem;
-  font-weight: 900;
+  font-size: .9rem;
+  font-weight: 700;
   letter-spacing: 1px;
-  font-family: "Ubuntu", sans-serif;
+text-transform: uppercase
 }
 
 a.logo {
@@ -874,10 +874,6 @@ a.logo {
 }
 
 .blog_item {
-  box-shadow: 0px 0px 33px #ddd;
-  background: #fff;
-  padding: 5px;
-  border-radius: 5px;
   box-sizing: border-box;
   overflow: hidden;
   position: relative;
